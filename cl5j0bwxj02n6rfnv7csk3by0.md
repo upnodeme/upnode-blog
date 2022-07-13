@@ -2,7 +2,7 @@
 
 The following are the VPS resources that I found that are more suitable for deploying Meson nodes. Since Meson mainly measures bandwidth, IP, and stability, I distinguish it by the size of the bandwidth. It is strongly recommended to buy a machine with a G port. Specific mining rules can be found in the official Meson documentation.
 
-## UpNode $5/month **1.5Gbps  🔥🔥🔥🔥🔥🔥**
+## UpNode $5/month **2 Gbps  🔥🔥🔥🔥🔥🔥**
 
 Website: [https://www.upnode.me/](https://www.upnode.me/)
 
@@ -19,9 +19,7 @@ UpNode will host the testnet nodes of Meson Network for users, and provide node 
 
 [https://docs.upnode.me/en/what-is-upnode#pricing](https://docs.upnode.me/en/what-is-upnode#pricing)
 
-
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657680261138/ft9EZG4qF.png)
-
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657683413689/oN-0wF7UA.png align="left")
 
 ## Digital-VM $4/month 1Gbps **🔥🔥🔥**
 
